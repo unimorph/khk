@@ -13,13 +13,13 @@ Source:
 Khuyagbaatar Batsuren
 
 ## Paradigm Samples
-нэр	нэрийн	N;GEN;SG
-нэр	нэрд	N;DAT;SG
-нэр	нэрийг	N;ACC;SG
-нэр	нэрээс	N;ABL;SG
-нэр	нэрээр	N;INS;SG
-нэр	нэртэй	N;COM;SG
-нэр	нэрээ	N;VOC;SG
+нэр	нэрийн	N;GEN;SG <br/>
+нэр	нэрд	N;DAT;SG <br/>
+нэр	нэрийг	N;ACC;SG <br/>
+нэр	нэрээс	N;ABL;SG <br/>
+нэр	нэрээр	N;INS;SG <br/>
+нэр	нэртэй	N;COM;SG <br/>
+нэр	нэрээ	N;VOC;SG <br/>
 
 ## Shared Tasks
 
