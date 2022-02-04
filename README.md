@@ -13,7 +13,13 @@ Source:
 Khuyagbaatar Batsuren
 
 ## Paradigm Samples
-TBA
+нэр	нэрийн	N;GEN;SG
+нэр	нэрд	N;DAT;SG
+нэр	нэрийг	N;ACC;SG
+нэр	нэрээс	N;ABL;SG
+нэр	нэрээр	N;INS;SG
+нэр	нэртэй	N;COM;SG
+нэр	нэрээ	N;VOC;SG
 
 ## Shared Tasks
 
