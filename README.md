@@ -6,7 +6,8 @@ Contains Khalkha Mongolian paradigms
 ## Data
 
 Source:
-- `khk`: [TBA](http://TBA)
+- `khk.tsv`: [MorphyNet](http://github.com/kbatsuren/MorphyNet)
+- `khk.segmentations.tsv`: [MorphyNet](http://github.com/kbatsuren/MorphyNet)
 
 ## Annotators
 
