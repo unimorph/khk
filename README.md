@@ -22,6 +22,13 @@ Khuyagbaatar Batsuren
 нэр	нэртэй	N;COM;SG <br/>
 нэр	нэрээ	N;VOC;SG <br/>
 
+## Language Specifics
+LGSPEC1 VERB + `until` <br />
+LGSPEC2 VERB + `as soon as` <br />
+LGSPEC3 VERB + `if` <br />
+LGSPEC4 VERB + `while` <br />
+LGSPEC5 VERB + `not if` <br />
+
 ## Shared Tasks
 
 
