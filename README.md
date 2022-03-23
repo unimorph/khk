@@ -1,3 +1,5 @@
+![um-canonicalize: passed](https://img.shields.io/badge/um--canonicalize-passed-brightgreen.svg "um-canonicalize: passed")
+
 # Khalkha Mongolian (khk)
 
 Contains Khalkha Mongolian paradigms 
@@ -6,7 +8,7 @@ Contains Khalkha Mongolian paradigms
 ## Data
 
 Source:
-- `khk.tsv`: [MorphyNet](http://github.com/kbatsuren/MorphyNet)
+- `khk`: [MorphyNet](http://github.com/kbatsuren/MorphyNet)
 - `khk.segmentations.tsv`: [MorphyNet](http://github.com/kbatsuren/MorphyNet)
 
 ## Annotators
@@ -23,11 +25,11 @@ Khuyagbaatar Batsuren
 нэр	нэрээ	N;VOC;SG <br/>
 
 ## Language Specifics
-LGSPEC1 VERB + `until` <br />
-LGSPEC2 VERB + `as soon as` <br />
-LGSPEC3 VERB + `if` <br />
-LGSPEC4 VERB + `while` <br />
-LGSPEC5 VERB + `not if` <br />
+LGSPEC01 VERB + `until` <br />
+LGSPEC02 VERB + `as soon as` <br />
+LGSPEC03 VERB + `if` <br />
+LGSPEC04 VERB + `while` <br />
+LGSPEC05 VERB + `not if` <br />
 
 ## Shared Tasks
 
